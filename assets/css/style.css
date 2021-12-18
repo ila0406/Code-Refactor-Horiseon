@@ -22,7 +22,7 @@ h1 {
 
 .seo {
     /* Made S.E.O. Search engine optimization stand out more */
-    color: blue;
+    text-decoration: underline;
 }
 
 nav {
