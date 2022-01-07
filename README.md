@@ -1,5 +1,5 @@
 # Code-Refactor-Horiseon
-Horiseon - A Search Engine Optimization & Marketing company
+Horiseon - A Search Engine Optimization & Marketing company.
 
 https://ila0406.github.io/Code-Refactor-Horiseon/
 
